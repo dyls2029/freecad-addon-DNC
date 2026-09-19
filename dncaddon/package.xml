@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package format="1">
+  <name>DNC</name>
+  <description>A FreeCAD workbench for sending G-code and managing CNC machine sessions.</description>
+  <version>1.0.0</version>
+  <maintainer email="dyls2029@gmail.com">Dylan</maintainer>
+  <homepage>https://github.com/dyls2029/freecad-addon-DNC</homepage>
+  <freecad_min_version>1.1</freecad_min_version>
+  <tags>workbench;cnc;machine;gcode</tags>
+</package>
